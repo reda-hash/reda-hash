@@ -12,6 +12,16 @@ I'm a **Computer Science Undergraduate** passionate about technology, problem-so
 
 ---
 
+## MY Projects
+#### Budget Tracker
+('link to repo')]
+#### Password strength checker
+('link to repo')]
+#### CV builder
+('link to repo')]
+
+---
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-reda-sadou-876901364)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](reda-hash)  
